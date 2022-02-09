@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "username",
+      "type": "java.lang.String",
+      "description": "Description for username."
+    },
+    {
+      "name": "datasource",
+      "type": "java.lang.String",
+      "description": "Description for datasource."
+    },
+    {
+      "name": "spring",
+      "type": "java.lang.String",
+      "description": "Description for spring."
+    },
+    {
+      "name": "freemarker.suffix",
+      "type": "java.lang.String",
+      "description": "Description for freemarker.suffix."
+    },
+    {
+      "name": "content-type",
+      "type": "java.lang.String",
+      "description": "Description for content-type."
+    },
+    {
+      "name": "template-loader-path",
+      "type": "java.lang.String",
+      "description": "Description for template-loader-path."
+    },
+    {
+      "name": "freemarker.suffix",
+      "type": "java.lang.String",
+      "description": "Description for freemarker.suffix."
+    },
+    {
+      "name": "mybatis.configuration.",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.configuration.."
+    }
+  ] }
