@@ -39,5 +39,15 @@
       "name": "mybatis.configuration.",
       "type": "java.lang.String",
       "description": "Description for mybatis.configuration.."
+    },
+    {
+      "name": "freemarker.suffix",
+      "type": "java.lang.String",
+      "description": "Description for freemarker.suffix."
+    },
+    {
+      "name": "freemarker.content-type.charset",
+      "type": "java.lang.String",
+      "description": "Description for freemarker.content-type.charset."
     }
   ] }
